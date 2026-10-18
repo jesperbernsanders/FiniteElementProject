@@ -1,0 +1,4 @@
+numpy
+scipy>=1.10
+scikit-fem>=9.0
+matplotlib>=3.7
